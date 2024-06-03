@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a100729d-2252-40d4-8537-9c30b1d534e3" name="Changes" comment="homework week-12">
+      <change afterPath="$PROJECT_DIR$/../.idea/homeworkweek12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/library/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/runners/testngtest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/library/testsuite/JobSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;palwhite&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/palwhite/homeworkweek12.git&quot;,
+    &quot;accountId&quot;: &quot;b47e71f9-9aaf-46a5-8a61-f33e35c58c7d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hNSuMJIWSIUBznBKlycshiz7JL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PropertyReader.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Demo.demo.executor": "Run",
+    "TestNG.JobSearchTest.executor": "Run",
+    "TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet (1).executor": "Run",
+    "TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet (2).executor": "Run",
+    "TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/HOMEWORK/homeworkweek12/cv-library-uk/src/test/java/uk/co/library",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HOMEWORK\homeworkweek12\cv-library-uk\src\test\java\uk\co\library" />
+      <recent name="C:\HOMEWORK\homeworkweek12\cv-library-uk\src\main\java\uk\co\library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.JobSearchTest">
+    <configuration name="Demo.demo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.Demo" />
+      <option name="METHOD_NAME" value="demo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.JobSearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobSearchTest.verifyJobSearchResultUsingDifferentDataSet (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.JobSearchTest" />
+      <option name="METHOD_NAME" value="verifyJobSearchResultUsingDifferentDataSet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobSearchTest.verifyJobSearchResultUsingDifferentDataSet (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.JobSearchTest" />
+      <option name="METHOD_NAME" value="verifyJobSearchResultUsingDifferentDataSet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobSearchTest.verifyJobSearchResultUsingDifferentDataSet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.library.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.library.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.library.testsuite.JobSearchTest" />
+      <option name="METHOD_NAME" value="verifyJobSearchResultUsingDifferentDataSet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JobSearchTest" />
+        <item itemvalue="TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet" />
+        <item itemvalue="TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet (2)" />
+        <item itemvalue="TestNG.JobSearchTest.verifyJobSearchResultUsingDifferentDataSet (1)" />
+        <item itemvalue="TestNG.Demo.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a100729d-2252-40d4-8537-9c30b1d534e3" name="Changes" comment="" />
+      <created>1711883612407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711883612407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework week-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework week-12" />
+  </component>
+</project>
