@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1cb92b2-e9b7-48d6-9973-de060f6956c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/FamilyImmigrationStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/pages/WorkTypePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gov/uk/check/visa/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/runners/testngtest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gov/uk/check/visa/testsuite/VisaConfirmationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;palwhite&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/palwhite/homeworkweek12.git&quot;,
+    &quot;accountId&quot;: &quot;b47e71f9-9aaf-46a5-8a61-f33e35c58c7d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hO3K2w5QwZfA3TRXlRk5bzb05o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PropertyReader.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths.executor": "Run",
+    "TestNG.VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card.executor": "Run",
+    "TestNG.VisaConfirmationTest.anAustralianCominToUKForTourism.executor": "Run",
+    "TestNG.VisaConfirmationTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/HOMEWORK/homeworkweek12/home-office-visa-check",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HOMEWORK\homeworkweek12\home-office-visa-check\src\test\java\gov\uk\check\visa" />
+      <recent name="C:\HOMEWORK\homeworkweek12\home-office-visa-check\src\main\java\gov\uk\check\visa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.VisaConfirmationTest">
+    <configuration name="PropertyReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.propertyreader.PropertyReader" />
+      <module name="home-office-visa-check" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.propertyreader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="METHOD_NAME" value="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="METHOD_NAME" value="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest.anAustralianCominToUKForTourism" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="METHOD_NAME" value="anAustralianCominToUKForTourism" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VisaConfirmationTest" />
+        <item itemvalue="TestNG.VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" />
+        <item itemvalue="TestNG.VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" />
+        <item itemvalue="TestNG.VisaConfirmationTest.anAustralianCominToUKForTourism" />
+        <item itemvalue="Application.PropertyReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1cb92b2-e9b7-48d6-9973-de060f6956c6" name="Changes" comment="" />
+      <created>1711883612407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711883612407</updated>
+    </task>
+    <servers />
+  </component>
+</project>
